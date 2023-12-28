@@ -1,0 +1,13 @@
+.cartItemConatiner {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.cartItemConatiner::-webkit-scrollbar {
+    width: 1rem;
+
+}
+
+.cartItemConatiner::-webkit-scrollbar-thumb {
+    background: transparent;
+}
